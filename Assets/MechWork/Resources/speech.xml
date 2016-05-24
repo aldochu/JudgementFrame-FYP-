@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<SpeechCollection>
+  <Speeches>
+    <!--Region[Game First Start]-->
+    <Speech>
+      <event>Game First Start</event>
+      <image>wakeup</image>
+      <line>*Yawn* I'm awake!</line>
+    </Speech>
+    <Speech>
+      <event>Game First Start</event>
+      <image>idle-smilingface</image>
+      <line>Let's get down to business. Where to first, hunter?</line>
+    </Speech>
+    <!--EndRegion-->
+    
+    <!--Region [Silenus Selected]-->
+    <Speech>
+      <event>Silenus Selected</event>
+      <image>idle-eyesclosed</image>
+      <line>Scanning the human information network...</line>
+    </Speech>
+    <Speech>
+      <event>Silenus Selected</event>
+      <image>readingbook</image>
+      <line>Silenus uses a marine based mech.</line>
+    </Speech>
+    <Speech>
+      <event>Silenus Selected</event>
+      <image>readingbook</image>
+      <line>She's bound to be within a large water body.</line>
+    </Speech>
+    <Speech>
+      <event>Silenus Selected</event>
+      <image>idle-seriousface</image>
+      <line>I just picked up reports of large human vessels.</line>
+    </Speech>
+    <Speech>
+      <event>Silenus Selected</event>
+      <image>idle-seriousface</image>
+      <line>They seem to be going missing at this particular location in the ocean.</line>
+    </Speech>
+    <Speech>
+      <event>Silenus Selected</event>
+      <image>idle-smilingface</image>
+      <line>I think it's worth a look.</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Arrived At Ocean Scene]-->
+    <Speech>
+      <event>Arrived At Ocean Scene</event>
+      <image>idle-smilingface</image>
+      <line>We've arrived.</line>
+    </Speech>
+    <Speech>
+      <event>Arrived At Ocean Scene</event>
+      <image>excited</image>
+      <line>Look, it's the Navy!</line>
+    </Speech>
+    <Speech>
+      <event>Arrived At Ocean Scene</event>
+      <image>idle-seriousface</image>
+      <line>They're probably investigating just like us.</line>
+    </Speech>
+    <!--EndRegion-->
+    
+    <!--Region [Whirlpool Disables Navy]-->
+    <Speech>
+      <event>Whirlpool Disables Navy</event>
+      <image>idle-seriousface</image>
+      <line>A whirlpool out of nowhere?</line>
+    </Speech>
+
+    <Speech>
+      <event>Whirlpool Disables Navy</event>
+      <image>idle-seriousface</image>
+      <line>This is definitely Silenus's doing.</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region[Silenus Breaks Ocean Surface]-->
+    <Speech>
+      <event>Silenus Breaks Ocean Surface</event>
+      <image>pointing</image>
+      <line>There he is! Let's get him!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Romulus Selected]-->
+    <Speech>
+      <event>Romulus Selected</event>
+      <image>idle-eyesclosed</image>
+      <line>Scanning the human information network...</line>
+    </Speech>
+    <Speech>
+      <event>Romulus Selected</event>
+      <image>readingbook</image>
+      <line>There's a mysterious fog covering a mountainous region.</line>
+    </Speech>
+    <Speech>
+      <event>Romulus Selected</event>
+      <image>idle-seriousface</image>
+      <line>It's mostly unpopulated.</line>
+    </Speech>
+    <Speech>
+      <event>Romulus Selected</event>
+      <image>readingbook</image>
+      <line>This fog also doesn't look natural at all.</line>
+    </Speech>
+    <Speech>
+      <event>Romulus Selected</event>
+      <image>idle-smilingface</image>
+      <line>I think that's our clue.</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Spotted Mysterious Device]-->
+    <Speech>
+      <event>Spotted Mysterious Device</event>
+      <image>idle-seriousface</image>
+      <line>Hmmm...that's curious.</line>
+    </Speech>
+    <Speech>
+      <event>Spotted Mysterious Device</event>
+      <image>idle-seriousface</image>
+      <line>That doesn't seem human</line>
+    </Speech>
+    <Speech>
+      <event>Spotted Mysterious Device</event>
+      <image>idle-seriousface</image>
+      <line>Proceed with caution.</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Near Device]-->
+    <Speech>
+      <event>Near Device</event>
+      <image>idle-seriousface</image>
+      <line>As I suspected, it's definitely causing the fog.</line>
+    </Speech>
+    <Speech>
+      <event>Near Device</event>
+      <image>pointing</image>
+      <line>Take it out!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Romulus Revealed]-->
+    <Speech>
+      <event>Romulus Revealed</event>
+      <image>excited</image>
+      <line>There he is!</line>
+    </Speech>
+    <Speech>
+      <event>Romulus Revealed</event>
+      <image>excited</image>
+      <line>He's been using the fog as a cover!</line>
+    </Speech>
+    <Speech>
+      <event>Romulus Revealed</event>
+      <image>pointing</image>
+      <line>Let's take him down!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Brutus Selected]-->
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>idle-seriousface</image>
+      <line>I just looked up the Intergalactic Herald.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>readingbook</image>
+      <line>There've been reported thefts in the neighbouring star system.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>readingbook</image>
+      <line>Thefts of a Brutus-class mech.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>idle-seriousface</image>
+      <line>Brutus Mech's are star-jump capable.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>readingbook</image>
+      <line>One of those mech's jump was projected toward this planet.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>idle-eyesclosed</image>
+      <line>Hang on, I'm picking up something.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>idle-seriousface</image>
+      <line>Sensors indicate activity at this human settlement.</line>
+    </Speech>
+    <Speech>
+      <event>Brutus Selected</event>
+      <image>idle-seriousface</image>
+      <line>Let's investigate.</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Spotted Brutus Sucking Power]-->
+    <Speech>
+      <event>Spotted Brutus Sucking Power</event>
+      <image>excited</image>
+      <line>There he is!</line>
+    </Speech>
+    <Speech>
+      <event>Spotted Brutus Sucking Power</event>
+      <image>excited</image>
+      <line>He's trying to keep his power core running!</line>
+    </Speech>
+    <Speech>
+      <event>Spotted Brutus Sucking Power</event>
+      <image>pointing</image>
+      <line>Let's get him!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [First 20% Health Gone]-->
+    <Speech>
+      <event>First 20 Health Gone</event>
+      <image>hurt_scared</image>
+      <line>Uuf! This guy is tough!</line>
+    </Speech>
+    <Speech>
+      <event>First 20 Health Gone</event>
+      <image>excited</image>
+      <line>But, we're not backing down.</line>
+    </Speech>
+    <Speech>
+      <event>First 20 Health Gone</event>
+      <image>pointing</image>
+      <line>Let's go!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Last 20% Health Remaining]-->
+    <Speech>
+      <event>Last 20 Health Remaining</event>
+      <image>hurt_scared</image>
+      <line>It hurts! Do something!</line>
+    </Speech>
+    <Speech>
+      <event>Last 20 Health Remaining</event>
+      <image>hurt_scared</image>
+      <line>Save me!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region[Defeated Boss with < 50 health remaining]-->
+    <Speech>
+      <event>Defeated Boss With Above 50</event>
+      <image>relieved</image>
+      <line>Phew, we did it!</line>
+    </Speech>
+    <Speech>
+      <event>Defeated Boss With Above 50</event>
+      <image>relieved</image>
+      <line>We finally defeated it!</line>
+    </Speech>
+    <!--EndRegion-->
+
+    <!--Region [Less than 20% energy remaining]-->
+    <Speech>
+      <event>Less Than 20 Energy</event>
+      <image>wakeup</image>
+      <line>I'm so exhausted...</line>
+    </Speech>
+    <Speech>
+      <event>Less Than 20 Energy</event>
+      <image>wakeup</image>
+      <line>We need to recharge.</line>
+    </Speech>
+    <!--EndRegion-->
+    
+  </Speeches>
+</SpeechCollection>
